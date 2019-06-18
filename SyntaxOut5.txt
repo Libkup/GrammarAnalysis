@@ -1,0 +1,21 @@
+threadspec
+|---featurespec
+	|---portSpec
+		|---IOtype
+		|---portType
+			|---reference
+|---flowSpec
+	|---flowPathSpec
+|---association
+	|---splitter
+
+threadspec
+|---featurespec
+	|---portSpec
+		|---IOtype
+		|---portType
+			|---reference
+|---flowSpec
+	|---flowPathSpec
+|---association
+	|---splitter

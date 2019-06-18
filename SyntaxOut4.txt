@@ -1,0 +1,65 @@
+threadspec
+|---featurespec
+	|---portSpec
+		|---IOtype
+		|---portType
+			|---reference
+|---flowSpec
+	|---flowPathSpec
+|---association
+	|---splitter
+
+threadspec
+|---featurespec
+	|---portSpec
+		|---IOtype
+		|---portType
+			|---reference
+|---flowSpec
+	|---flowSourceSpec
+		|---association
+|---association
+
+threadspec
+|---featurespec
+	|---portSpec
+		|---IOtype
+		|---portType
+			|---reference
+		|---association
+			|---splitter
+|---flowSpec
+	|---flowSinkSpec
+		|---association
+|---association
+	|---splitter
+
+threadspec
+|---featurespec
+	|---parameterSpec
+		|---IOtype
+		|---reference
+		|---association
+			|---splitter
+|---flowSpec
+	|---flowSinkSpec
+		|---association
+|---association
+	|---splitter
+
+threadspec
+|---featurespec
+	|---portSpec
+		|---IOtype
+		|---portType
+|---flowSpec
+	|---flowSinkSpec
+		|---association
+|---association
+	|---splitter
+
+threadspec
+|---featurespec
+|---flowSpec
+|---association
+
